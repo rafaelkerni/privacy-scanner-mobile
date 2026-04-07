@@ -118,7 +118,11 @@ This tool scans WiFi-connected devices only. It **cannot** detect:
 
 ## Rental Platform Policies
 
-> Airbnb prohibits ALL indoor cameras and recording devices, even if disclosed and turned off. Outdoor cameras must be disclosed. Audio recording is prohibited everywhere. Other platforms (Booking, VRBO) have similar policies.
+Major short-term rental platforms prohibit indoor surveillance cameras:
+
+- **[Airbnb](https://www.airbnb.com/help/article/3061)** — All indoor cameras prohibited, even if off. Hidden cameras always banned. Outdoor cameras must be disclosed.
+- **[Booking.com](https://partner.booking.com/en-us/help/legal-security/security/requirements-and-regulations-surveillance-devices)** — Cameras allowed only in common/public areas, must be visible and disclosed. Prohibited where guests expect privacy.
+- **[Vrbo](https://www.vrbo.com/tlp/trust-and-safety/use-of-surveillance-policy)** — Indoor cameras prohibited. Outdoor cameras allowed only for security at access points, must be disclosed.
 
 ## If You Find a Camera
 
