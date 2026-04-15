@@ -2,3 +2,27 @@ __pycache__/
 *.pyc
 .claude/
 privacy-scan-results
+
+# React Native / Expo
+node_modules/
+.expo/
+dist/
+/android/
+/ios/
+*.tsbuildinfo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build
+*.apk
+*.aab
+*.ipa
+*.hbc

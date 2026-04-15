@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "Privacy Scanner",
+    "slug": "privacy-scanner-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "privacyscanner",
+    "userInterfaceStyle": "dark",
+    "newArchEnabled": false,
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "backgroundColor": "#0D1117",
+      "resizeMode": "contain"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0D1117"
+      },
+      "package": "com.privacyscanner.mobile",
+      "permissions": [
+        "ACCESS_WIFI_STATE",
+        "ACCESS_NETWORK_STATE",
+        "INTERNET",
+        "ACCESS_FINE_LOCATION",
+        "CHANGE_WIFI_MULTICAST_STATE"
+      ]
+    },
+    "plugins": [
+      "expo-router"
+    ]
+  }
+}
