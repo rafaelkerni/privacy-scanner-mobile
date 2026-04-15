@@ -1,0 +1,29 @@
+__pycache__/
+*.pyc
+.claude/
+privacy-scan-results
+
+# React Native / Expo
+node_modules/
+.expo/
+dist/
+*.tsbuildinfo
+
+# Mantém as pastas nativas no upload do EAS Build.
+# O .gitignore pode continuar ignorando /android/ e /ios/ no repositório.
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build
+*.apk
+*.aab
+*.ipa
+*.hbc
